@@ -1,0 +1,7 @@
+D:\source\repos\ImpuestoMedicina\ImpuestoMedicina\bin\Debug\ImpuestoMedicina.exe.config
+D:\source\repos\ImpuestoMedicina\ImpuestoMedicina\bin\Debug\ImpuestoMedicina.exe
+D:\source\repos\ImpuestoMedicina\ImpuestoMedicina\bin\Debug\ImpuestoMedicina.pdb
+D:\source\repos\ImpuestoMedicina\ImpuestoMedicina\obj\Debug\ImpuestoMedicina.csproj.AssemblyReference.cache
+D:\source\repos\ImpuestoMedicina\ImpuestoMedicina\obj\Debug\ImpuestoMedicina.csproj.CoreCompileInputs.cache
+D:\source\repos\ImpuestoMedicina\ImpuestoMedicina\obj\Debug\ImpuestoMedicina.exe
+D:\source\repos\ImpuestoMedicina\ImpuestoMedicina\obj\Debug\ImpuestoMedicina.pdb
